@@ -1,0 +1,1 @@
+nuitka --standalone --onefile --windows-disable-console --plugin-enable=tk-inter --include-data-dir=sound_file=sound_file --windows-icon-from-ico=icon.ico ebook2pdf.py
